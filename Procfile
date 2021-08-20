@@ -1,1 +1,0 @@
-web: gunicorn django_google_api.wsgi
